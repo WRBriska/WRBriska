@@ -1,6 +1,6 @@
 # William Briska — AI Engineer
 
-AI engineer building production agentic and LLM systems. Currently at Billtrust, where I own AI work end to end: requirements → architecture → deployment → monitoring.
+AI engineer building production agentic and LLM systems. Currently in the FinTech space, where I own AI projects end to end: requirements → architecture → deployment → monitoring.
 
 ---
 
