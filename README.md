@@ -33,7 +33,7 @@ Beat-synced PDF score reader for musicians — combines a metronome with an auto
 
 ## Background
 
-- **MS Data Science** — University of Colorado Boulder (expected 2026), with coursework in Generative AI, NLP, and Reinforcement Learning
+- **MS Data Science** — University of Colorado Boulder (expected 2026), with coursework in Machine Learning, Generative AI, NLP, and Reinforcement Learning
 - **BS Mathematics & Economics** — University of Illinois Chicago
 - 8 years of experience across automation, data engineering, and analytics
 
