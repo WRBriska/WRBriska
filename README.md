@@ -27,7 +27,7 @@ LangGraph + Claude agent that runs a full go-to-market workflow: researches an a
 
 ### [TempoScroll](https://github.com/WRBriska/TempoScroll)
 
-Beat-synced PDF score reader for musicians — combines a metronome with an autoscroller to display music scores. Built for personal use for the classical guitar. Client-side, no build step. Work in progress.
+Beat-synced PDF score reader for musicians — combines a metronome with an autoscroller to display music scores. Built for personal use for the classical guitar. Client-side, no build step.
 
 ---
 
