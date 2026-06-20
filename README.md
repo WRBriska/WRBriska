@@ -9,24 +9,29 @@ AI engineer building production agentic and LLM systems. Currently in the FinTec
 - **Multi-agent systems** — LangGraph pipelines with autonomous reasoning and dynamic tool use, deployed at enterprise scale
 - **MCP servers** — powering third-party AI agents for sales and customer support workflows
 - **RAG pipelines** — structured retrieval to mitigate hallucinations in high-stakes financial contexts
-- **Python automation** — replacing manual effort at scale.
+- **Python automation** — replacing manual effort at scale
 
-Stack: Python · LangGraph · LLM APIs (GPT-4, Claude, Gemini) · RAG · Vector DBs · AWS · SQL
+Stack: Python · LangGraph · Claude · GPT-4 · Gemini · RAG · Vector DBs · AWS · SQL
 
 ---
 
-## Featured project
+## Projects
 
 ### [InvoiceAudit](https://github.com/WRBriska/InvoiceAudit)
-A production-shaped LangGraph system that audits LTL freight invoices against contract terms and flags overbilling with exact dollar impact. Key design decision: **the LLM never touches a number.** Extraction and classification go to the model; arithmetic stays deterministic. Ships with a synthetic data generator, labeled eval set, and eval harness — every claim is reproducible with `make all`.
+
+LangGraph system that audits LTL freight invoices against contract terms and flags overbilling with exact dollar impact. Central design decision: **the LLM never touches a number.** Extraction and classification go to the model; arithmetic stays deterministic. Ships with a synthetic data generator, a labeled eval set, and an eval harness — every claim is reproducible with `make all`.
+
+### [GTMAgent](https://github.com/WRBriska/GTMAgent)
+
+LangGraph + Claude agent that runs a full go-to-market workflow: researches an account, scores it against an ICP, runs bounded discovery to close information gaps, and produces a prioritized next-best-action with a drafted outreach message. Includes a prompt-injection defense layer — all untrusted CRM data, call transcripts, and enrichment feeds are sanitized and fenced before reaching the model.
 
 ---
 
 ## Background
 
-- **MS Data Science** — University of Colorado Boulder (expected Fall 2026), with graduate coursework in Generative AI, NLP, and Reinforcement Learning
+- **MS Data Science** — University of Colorado Boulder (expected 2026), with coursework in Generative AI, NLP, and Reinforcement Learning
 - **BS Mathematics & Economics** — University of Illinois Chicago
-- 8 years of professional experience across automation, data engineering, and analytics
+- 8 years of experience across automation, data engineering, and analytics
 
 ---
 
