@@ -8,8 +8,8 @@ AI engineer building production agentic and LLM systems. Currently in the FinTec
 
 - **Multi-agent systems** — LangGraph pipelines with autonomous reasoning and dynamic tool use, deployed at enterprise scale
 - **MCP servers** — powering third-party AI agents for sales and customer support workflows
-- **RAG pipelines** — structured retrieval to eliminate hallucinations in high-stakes financial contexts
-- **Python automation** — replacing manual effort at scale (current production footprint: ~35 FTE-equivalent)
+- **RAG pipelines** — structured retrieval to mitigate hallucinations in high-stakes financial contexts
+- **Python automation** — replacing manual effort at scale.
 
 Stack: Python · LangGraph · LLM APIs (GPT-4, Claude, Gemini) · RAG · Vector DBs · AWS · SQL
 
