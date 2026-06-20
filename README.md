@@ -25,6 +25,9 @@ LangGraph system that audits LTL freight invoices against contract terms and fla
 
 LangGraph + Claude agent that runs a full go-to-market workflow: researches an account, scores it against an ICP, runs bounded discovery to close information gaps, and produces a prioritized next-best-action with a drafted outreach message. Includes a prompt-injection defense layer — all untrusted CRM data, call transcripts, and enrichment feeds are sanitized and fenced before reaching the model.
 
+### [TempoScroll](https://github.com/WRBriska/TempoScroll)
+
+Beat-synced PDF score reader for musicians — combines a metronome with an autoscroller to display music scores. Built for personal use for the classical guitar. Client-side, no build step. Work in progress.
 ---
 
 ## Background
